@@ -1,0 +1,58 @@
+body {
+        font-family: Arial, sans-serif;
+        background-color:  rgb(153, 153, 153);
+        font-weight: 300;
+        line-height: 30px;
+ }
+h1{
+    text-align: center;
+    color: white;
+    font-size: 350%;
+    padding: 2%;
+    background-color: black;
+
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+    border-bottom: 3px solid white;
+    display: block;
+    font-size: 250%;
+    padding-bottom: 0.5%;
+}
+.ciencie{
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    padding-left: 5%;
+}
+.resaltat{
+    background-color: black;
+    padding: 4px 4px;
+    color: white;
+}
+
+.web{
+    text-decoration: underline red;
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    padding-left: 5%;
+}
+.res{
+    font-family: sans-serif;
+    font-size: x-large;
+    background-color: yellow;
+    padding: 4px 4px;
+    color: black;
+}
+.espai{
+    margin-left: 2%;
+
+}
+.espaio{
+    margin-left: 6%;
+
+}
