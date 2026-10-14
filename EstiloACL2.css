@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(205, 205, 205);
+    color: rgb(4, 64, 101);
+    font-family: "arial", sans serif;
+}
+h1{
+
+    text-align: center;
+    border-bottom: 3px solid rgb(4, 64, 101);
+}
+h2{
+    color: rgb(4, 64, 101);
+    border-bottom: 3px solid rgb(151, 152, 152);
+    display: block;
+}
+.linea{
+    border-bottom: 3px solid rgb(4, 64, 101);
+    display: block;
+}
+.cuadrado ol{
+    list-style-type: decimal;
+    padding-left: 25px;
+    padding-bottom: 10px;
+}
+section{
+    color: black;
+    padding: 20px 20px 10px 20px;
+    margin: 20px 20px 20px 20px;
+    box-shadow: 0px 0px 5px 1px;
+    margin: 10px 10px 10px 10px;
+    border-radius: 10px;
+    background-color: white;
+}
+.separador{
+    padding-left: 20px;
+}
+.romana ol{
+    list-style-type: upper-roman;
+    padding-left: 40px;
+}
+li{
+    padding-bottom: 15px;
+}

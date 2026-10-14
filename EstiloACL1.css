@@ -1,0 +1,19 @@
+body{
+    background-color: lightgrey;
+    color: rgb(4, 64, 101);
+    font-family: "arial", sans serif;
+}
+h1{
+    padding-bottom: 2%;
+}
+h2{
+    font-size: 30px;
+}
+.linea{
+    border-bottom: 3px solid rgb(4, 64, 101);
+    display: block;
+}
+li{
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
