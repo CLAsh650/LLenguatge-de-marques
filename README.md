@@ -23,5 +23,12 @@
         Activitat2: <a href="activitat2.html">Anar a Activitat2</a>
     </p>
     <br>
+         <p>
+        Activitat_llistes: <a href="activitatllista1.html"> Anar a activitatllista1
+    </p>
+        <br>
+     <p>
+        Activitat_llistes: <a href="activitatllista2.html"> Anar a activitatllista
+    </p>
 </body>
 </html>
